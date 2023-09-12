@@ -1,0 +1,21 @@
+E:\Ders15_Stok\Ders15_Stok\Ders18\obj\Debug\Ders18.csprojAssemblyReference.cache
+E:\Ders15_Stok\Ders15_Stok\Ders18\obj\Debug\Ders18.csproj.CoreCompileInputs.cache
+E:\Ders15_Stok\Ders15_Stok\Ders18\bin\Debug\Ders18.exe.config
+E:\Ders15_Stok\Ders15_Stok\Ders18\bin\Debug\Ders18.exe
+E:\Ders15_Stok\Ders15_Stok\Ders18\bin\Debug\Ders18.pdb
+E:\Ders15_Stok\Ders15_Stok\Ders18\obj\Debug\Ders18.exe
+E:\Ders15_Stok\Ders15_Stok\Ders18\obj\Debug\Ders18.pdb
+E:\Ders15_Stok Serkan\Ders18\bin\Debug\Ders18.exe.config
+E:\Ders15_Stok Serkan\Ders18\bin\Debug\Ders18.exe
+E:\Ders15_Stok Serkan\Ders18\bin\Debug\Ders18.pdb
+E:\Ders15_Stok Serkan\Ders18\obj\Debug\Ders18.csprojAssemblyReference.cache
+E:\Ders15_Stok Serkan\Ders18\obj\Debug\Ders18.csproj.CoreCompileInputs.cache
+E:\Ders15_Stok Serkan\Ders18\obj\Debug\Ders18.exe
+E:\Ders15_Stok Serkan\Ders18\obj\Debug\Ders18.pdb
+C:\Users\serka\OneDrive\Masaüstü\4.Hafta 09.09.2019 Windows Form - SQL EF\Ders15-18\Ders15_Stok\Ders18\bin\Debug\Ders18.exe.config
+C:\Users\serka\OneDrive\Masaüstü\4.Hafta 09.09.2019 Windows Form - SQL EF\Ders15-18\Ders15_Stok\Ders18\bin\Debug\Ders18.exe
+C:\Users\serka\OneDrive\Masaüstü\4.Hafta 09.09.2019 Windows Form - SQL EF\Ders15-18\Ders15_Stok\Ders18\bin\Debug\Ders18.pdb
+C:\Users\serka\OneDrive\Masaüstü\4.Hafta 09.09.2019 Windows Form - SQL EF\Ders15-18\Ders15_Stok\Ders18\obj\Debug\Ders18.csproj.AssemblyReference.cache
+C:\Users\serka\OneDrive\Masaüstü\4.Hafta 09.09.2019 Windows Form - SQL EF\Ders15-18\Ders15_Stok\Ders18\obj\Debug\Ders18.csproj.CoreCompileInputs.cache
+C:\Users\serka\OneDrive\Masaüstü\4.Hafta 09.09.2019 Windows Form - SQL EF\Ders15-18\Ders15_Stok\Ders18\obj\Debug\Ders18.exe
+C:\Users\serka\OneDrive\Masaüstü\4.Hafta 09.09.2019 Windows Form - SQL EF\Ders15-18\Ders15_Stok\Ders18\obj\Debug\Ders18.pdb

@@ -1,0 +1,7 @@
+E:\Ders19\Ders19\Ders19Solid\bin\Debug\Ders19Solid.exe.config
+E:\Ders19\Ders19\Ders19Solid\bin\Debug\Ders19Solid.exe
+E:\Ders19\Ders19\Ders19Solid\bin\Debug\Ders19Solid.pdb
+E:\Ders19\Ders19\Ders19Solid\obj\Debug\Ders19Solid.csprojAssemblyReference.cache
+E:\Ders19\Ders19\Ders19Solid\obj\Debug\Ders19Solid.csproj.CoreCompileInputs.cache
+E:\Ders19\Ders19\Ders19Solid\obj\Debug\Ders19Solid.exe
+E:\Ders19\Ders19\Ders19Solid\obj\Debug\Ders19Solid.pdb
